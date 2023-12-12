@@ -447,3 +447,7 @@
   repository: https://github.com/NeuroML/Documentation/
   website: https://docs.neuroml.org
   image: https://docs.neuroml.org/_static/logo.png
+- name: "Python For Beginners"
+  repository: https://github.com/vdsukhov/python-intro-course
+  website: https://vdsukhov.github.io/python-intro-course/intro.html
+  image: https://vdsukhov.github.io/python-intro-course/_static/python_course_logo.png
